@@ -26,6 +26,7 @@ body {
 	margin: 10%;
 	color: white;
 	border-radius: 25px;
+	
 	}
 
 h3{
@@ -98,9 +99,7 @@ h3{
 	margin-left: 50px;
 	font-size: 16px;
 	}
-
-a:link{
-	color:blue;
+a.link: {color:blue;
 	}
 
 footer{
@@ -112,7 +111,8 @@ footer{
 	border-radius: 25px;
 	}
 
-@media{min-width:  681px
+@media{
+	min-width:  681px
 	.grid-area{
 		display: flex;
 		flex-wrap: wrap;
