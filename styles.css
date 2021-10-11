@@ -74,6 +74,8 @@
 		border-radius: 25px;
 		float: left;
 		padding: 10px;
+		width:100px;
+		height:100px"
 		 }
 
 	.icon-small{
@@ -94,19 +96,19 @@
 		}
 
 	.icon-example{
-	margin-left: 50px;
-	font-size: 16px;
-	}
+		margin-left: 50px;
+		font-size: 16px;
+		}
 
 
 footer{
-		font-family: roboto;
-		text-align: left;
-		color: #white;
-		background-color: gray;
-		padding: 20px;
-		border-radius: 25px;
-		}
+	font-family: roboto;
+	text-align: left;
+	color: #white;
+	background-color: gray;
+	padding: 20px;
+	border-radius: 25px;
+	}
 
 @media{min-width:  681px
 	.grid-area{
@@ -114,10 +116,9 @@ footer{
 		flex-wrap: wrap;
 		justify-content: center;
 	}
-
+	
 	.grid-item{
 		height: 550px;
 		flex-basis: 30%;
 		margin: 1px;
 	}
-
