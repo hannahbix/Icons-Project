@@ -1,0 +1,123 @@
+	header{
+		font-family: roboto;
+		color: #white;
+		background-color: #008080;
+		padding: 20px;
+		border-radius: 25px;
+	}
+
+
+	h1{  
+		font-weight: bold;
+		text-align: center;
+		}
+
+	
+	h2{
+		text-align: center;
+		font-style: italic;
+		padding: 10px;
+		}
+
+
+	body {
+		font-size: 18px;
+		font-family: roboto;
+		margin: 10%;
+		color: white;
+		border-radius: 25px;
+		}
+
+	h3{
+		font-size: 30px;
+		color: white;
+		font-weight: bolder;
+		background-color: gray;
+		padding: 20px;
+		text-align: center;
+
+	}
+
+	.intro{
+		background-color: gray;
+		color: white;
+		border-radius: 25px;
+		padding: 30px;
+		}
+
+	.grid-area{
+		display: flex;
+		}
+
+	.grid-item{
+		flex: 1;
+		background-color: #d3d3d3;	
+		font-weight: bold;
+		color: black;
+		border-radius: 25px;
+		border-style: solid;
+		border-color: white;
+		padding: 20px;
+		}
+
+	.example{
+		background-color: teal;
+		border-style: solid;
+		border-color: white;
+		border-width: 2px;
+		padding: 20px;
+		border-radius: 25px;
+		}
+
+	.icon{
+		background-color: #C1E1C1;
+		border-radius: 25px;
+		float: left;
+		padding: 10px;
+		 }
+
+	.icon-small{
+		padding: 10px;
+		 float: left;
+		 }
+
+	.grid-example{
+		display: flex;
+		}
+
+	.grid-item-example{
+		flex: 1;
+		border-radius: 25px;
+		padding: 1px;
+		border-style: solid;
+		border-color: white;
+		}
+
+	.icon-example{
+	margin-left: 50px;
+	font-size: 16px;
+	}
+
+
+footer{
+		font-family: roboto;
+		text-align: left;
+		color: #white;
+		background-color: gray;
+		padding: 20px;
+		border-radius: 25px;
+		}
+
+@media{min-width:  681px
+	.grid-area{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.grid-item{
+		height: 550px;
+		flex-basis: 30%;
+		margin: 1px;
+	}
+
