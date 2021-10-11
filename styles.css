@@ -1,105 +1,107 @@
-	header{
-		font-family: roboto;
-		color: #white;
-		background-color: #008080;
-		padding: 20px;
-		border-radius: 25px;
+header{
+	font-family: roboto;
+	color: #white;
+	background-color: #008080;
+	padding: 20px;
+	border-radius: 25px;
 	}
 
 
-	h1{  
-		font-weight: bold;
-		text-align: center;
-		}
+h1{
+	font-weight: bold;
+	text-align: center;
+	}
 
 	
-	h2{
-		text-align: center;
-		font-style: italic;
-		padding: 10px;
-		}
-
-
-	body {
-		font-size: 18px;
-		font-family: roboto;
-		margin: 10%;
-		color: white;
-		border-radius: 25px;
-		}
-
-	h3{
-		font-size: 30px;
-		color: white;
-		font-weight: bolder;
-		background-color: gray;
-		padding: 20px;
-		text-align: center;
-
+h2{
+	text-align: center;
+	font-style: italic;
+	padding: 10px;
 	}
 
-	.intro{
-		background-color: gray;
-		color: white;
-		border-radius: 25px;
-		padding: 30px;
-		}
 
-	.grid-area{
-		display: flex;
-		}
+body {
+	font-size: 18px;
+	font-family: roboto;
+	margin: 10%;
+	color: white;
+	border-radius: 25px;
+	}
 
-	.grid-item{
-		flex: 1;
-		background-color: #d3d3d3;	
-		font-weight: bold;
-		color: black;
-		border-radius: 25px;
-		border-style: solid;
-		border-color: white;
-		padding: 20px;
-		}
+h3{
+	font-size: 30px;
+	color: white;
+	font-weight: bolder;
+	background-color: gray;
+	padding: 20px;
+	text-align: center;
+	}
 
-	.example{
-		background-color: teal;
-		border-style: solid;
-		border-color: white;
-		border-width: 2px;
-		padding: 20px;
-		border-radius: 25px;
-		}
+.intro{
+	background-color: gray;
+	color: white;
+	border-radius: 25px;
+	padding: 30px;
+	}
 
-	.icon{
-		background-color: #C1E1C1;
-		border-radius: 25px;
-		float: left;
-		padding: 10px;
-		width:100px;
-		height:100px"
-		 }
+.grid-area{
+	display: flex;
+	}
 
-	.icon-small{
-		padding: 10px;
-		 float: left;
-		 }
+.grid-item{
+	flex: 1;
+	background-color: #d3d3d3;	
+	font-weight: bold;
+	color: black;
+	border-radius: 25px;
+	border-style: solid;
+	border-color: white;
+	padding: 20px;
+	}
 
-	.grid-example{
-		display: flex;
-		}
+.example{
+	background-color: teal;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	padding: 20px;
+	border-radius: 25px;
+	}
 
-	.grid-item-example{
-		flex: 1;
-		border-radius: 25px;
-		padding: 1px;
-		border-style: solid;
-		border-color: white;
-		}
+.icon{
+	background-color: #C1E1C1;
+	border-radius: 25px;
+	float: left;
+	padding: 10px;
+	width:100px;
+	height:100px"
+	}
 
-	.icon-example{
-		margin-left: 50px;
-		font-size: 16px;
-		}
+.icon-small{
+	padding: 10px; 
+	float: left;
+	}
 
+.grid-example{
+	display: flex;
+	}
+
+.grid-item-example{
+	flex: 1;
+	border-radius: 25px;
+	padding: 1px;
+	border-style: solid;
+	border-color: white;
+	}
+
+.icon-example{
+	margin-left: 50px;
+	font-size: 16px;
+	}
+
+a:link{
+	color:blue;
+	}
 
 footer{
 	font-family: roboto;
