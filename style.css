@@ -100,7 +100,7 @@ h3{
 	font-size: 16px;
 	}
 a {
-	color: blue;
+	color: lightblue;
 	}
 
 footer{
@@ -121,7 +121,15 @@ footer{
 	}
 	
 	.grid-item{
-		height: 800px;
+		height: 600px;
 		flex-basis: 30%;
 		margin: 1px;
+	}
+	
+	.example{
+		min-width: 681px;
+		height: 300 px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center
 	}
