@@ -139,14 +139,14 @@ footer{
 	}
 
 	.grid-item{
-		width: 100%;
+		flex-basis: 100%;
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
 	}
 
 	.grid-item-example{
-		width: 100%;
+		flex-basis: 100%;
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
