@@ -98,6 +98,7 @@ h3{
 	margin-left: 50px;
 	font-size: 16px;
 	}
+
 a {
 	color: lightblue;
 	}
@@ -129,6 +130,7 @@ footer{
 		display: grid;
 		flex-wrap: wrap;
 		justify-content: center;
+	}
 }
 
 @media only screen and (max-width: 768px) {
@@ -147,3 +149,4 @@ footer{
 		display: flex;
 		flex-basis: 100%;
 	}
+}
