@@ -136,7 +136,6 @@ footer{
 		display: flex;
 		flex-wrap:  wrap;
 		justify-content: center;
-		width: 100%;
 	}
 
 	.grid-item{
@@ -151,11 +150,4 @@ footer{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
-  	}
-
-  	footer{
-  		width: 100%
-  		display: flex;
-  		flex-wrap: wrap;
-  		justify-content: center;
   	}
