@@ -132,6 +132,7 @@ footer{
 }
 
 @media only screen and (max-width: 768px) {
+
 	.grid-area{
 		display: flex;
 		flex-wrap:  wrap;
@@ -140,14 +141,9 @@ footer{
 
 	.grid-item{
 		flex-basis: 100%;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
 	}
 
 	.grid-item-example{
-		flex-basis: 100%;
 		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-  	}
+		flex-basis: 100%;
+	}
