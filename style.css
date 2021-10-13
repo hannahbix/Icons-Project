@@ -111,8 +111,8 @@ footer{
 	border-radius: 25px;
 	}
 
-@media{
-	min-width:  681px
+@media only screen and (min-width: 768px){
+	
 	.grid-area{
 		display: flex;
 		flex-wrap: wrap;
@@ -125,9 +125,37 @@ footer{
 		margin: 1px;
 	}
 	
-	.example{
-		height: 300 px;
+	.grid-item-example{
+		display: grid;
+		flex-wrap: wrap;
+		justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+	.grid-area{
+		display: flex;
+		flex-wrap:  wrap;
+		justify-content: center;
+		width: 100%;
+	}
+
+	.grid-item{
+		width: 100%;
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: center
+		justify-content: center;
 	}
+
+	.grid-item-example{
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+  	}
+
+  	footer{
+  		width: 100%
+  		display: flex;
+  		flex-wrap: wrap;
+  		justify-content: center;
+  	}
