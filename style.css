@@ -78,10 +78,6 @@ h3{
 	float: left;
 	}
 
-.grid-example{
-	display: flex;
-	}
-
 .grid-item-example{
 	flex: 1;
 	border-radius: 25px;
@@ -142,15 +138,14 @@ footer{
 	}
 
 	.grid-item{
-		flex-wrap: wrap;
 		flex-basis: 100%;
+		justify-content: center;
 		height: 100%;
-		margin: 1px;
 	}
 
 	.grid-example {
 		display: flex;
-		justfy-content: center;
+		justify-content: center;
 	}
 
 	.grid-item-example{
