@@ -138,8 +138,6 @@ footer{
 
 	.grid-area{
 		display: flex;
-		flex-direction: row;
-		justify-content: flex-start;
 	}
 
 	.grid-item{
