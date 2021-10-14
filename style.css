@@ -142,6 +142,7 @@ footer{
 	}
 
 	.grid-item{
+		flex-basis: 100%;
 		height: 100%;
 	}
 
