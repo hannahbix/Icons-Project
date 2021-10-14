@@ -1,164 +1,261 @@
-header{
-	font-family: roboto;
-	color: #white;
-	background-color: #008080;
-	padding: 20px;
-	border-radius: 25px;
-	}
+<!DOCType html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=max-width, initial-scale=1">
+
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap">
+
+	</head>
+
+	<header>
+			<h1> International Sanctions: A Briefer </h1>
+
+			<h2> A rundown on the types of sanctions and how the U.S. Government has employed them in recent years </h2>
+
+	</header>
+
+	<br>
+
+	<body>
+
+		<div class="intro">
+
+			<p> Sanctions are a relatively new phenomenon, but have quickly become a key “tool” in foreign policy. And perhaps no country employs this tool more than the United States. </p>
+
+			<p> Sanctions were first used in the 1960’s. TIME Magazine reported that England rallied the international community against the "white supremacist" separatist government seeking to separate from England's colonial rule. </p>
+
+			<p> The term "sanctions" can be applied to a broad range of actions. The main categories are economic, diplomatic, and sports (details below), but each category econmpasses a wide range of actions. The United States uses economic santions more than any other country in the world, according to the foreign policy think tank the Council on Foreign Relations. </a> </p>
+
+			<p> How sanctions are employed also matters. While the U.S. relies heavily on unilateral sanctions (working independently of other countries), it also works in partnership with other countries through multilateral bodies like the United Nations. Multilateral sanctions can exist at the regional level, too, through partnerships like the European Union and the African Union. </p>
+
+			<p> Within the U.S., the President and Congress have the power to issue economic sanctions. According to the Council on Foreign Relations, sanctions are then enforced by federal government agencies like the Department of Treasury and the Department of State, although state and local officials sometimes support sanctions enforcement efforts, particularly when it comes to businesses, for instance. </p>
+
+		</div>
+		
+		<br>
+
+		<div class="grid-area">
+		
+			<div class="grid-item">
+
+				<div class="icon"> 
+
+					<img src="noun_economy_3957068.png" alt="globe with money" style="width:100px;height:100px">
+
+				</div>
+
+				<h3> ECONOMIC SANCTIONS </h3>
+
+					<p> Changes in trade and financial relations. Economic sanctions encompass a broad range of actions, from trade restrictions and freezing assets to a reduction in foreign aid or an arms embargo.  </p>
 
 
-h1{
-	font-weight: bold;
-	text-align: center;
-	}
+				<div class="icon-small"> 
 
-	
-h2{
-	text-align: center;
-	font-style: italic;
-	padding: 10px;
-	}
+					<img src="outline_add_circle_black_24dp.png" alt="plus sign">
+
+				</div>
+
+				<div class="icon-example">
+
+					<p> Economic sanctions are arguably one of the most effective tools to hold so-called “bad actors” accountable, by putting pressure on people and/or regimes and cutting off their resources, while avoiding military confrontation. </p>
+
+				</div>
+
+				<div class="icon-small"> 
+
+					<img src="outline_remove_circle_black_24dp.png" alt="minus sign">
+
+				</div>
+
+				<div class="icon-example">
+
+					<p> Overly broad economic sanctions mean consequences for innocent civilians, who are then being held responsible for the actions of their government and/or leaders. It's also a politicized process. The U.S. often gets to play the role of “global enforcer," deciding which entities to sanction and often applying standards unevenly. </p>
+
+				</div>
+
+			</div>
+
+			<div class="grid-item"> 
+
+				<div class="icon"> 
+
+					<img src="noun_ambassador_3194408.png" alt="ambassador with desk and flag" style="width:100px;height:100px">
+
+				</div>
 
 
-body {
-	font-size: 18px;
-	font-family: roboto;
-	margin: 10%;
-	color: white;
-	border-radius: 25px;
-	
-	}
+				<h3> DIPLOMATIC SANCTIONS </h3>
 
-h3{
-	font-size: 30px;
-	color: white;
-	font-weight: bolder;
-	background-color: gray;
-	padding: 20px;
-	text-align: center;
-	}
+					<p> Changes in diplomatic presence. Diplomatic sanctions can include recalling or expelling key figures in diplomacy, such as the Ambassador. In some extreme a state may even close its embassy.  </p>
 
-.intro{
-	background-color: gray;
-	color: white;
-	border-radius: 25px;
-	padding: 30px;
-	}
+				<div class="icon-small"> 
 
-.grid-item{
-	background-color: #d3d3d3;	
-	font-weight: bold;
-	color: black;
-	border-radius: 25px;
-	border-style: solid;
-	border-color: white;
-	padding: 20px;
-	}
+					<img src="outline_add_circle_black_24dp.png" alt="plus sign">
 
-.example{
-	background-color: teal;
-	border-style: solid;
-	border-color: white;
-	border-width: 2px;
-	padding: 20px;
-	border-radius: 25px;
-	}
+				</div>
 
-.icon{
-	background-color: #C1E1C1;
-	border-radius: 25px;
-	float: left;
-	padding: 10px;
-	width:100px;
-	height:100px;
-	}
+				<div class="icon-example">
 
-.icon-small{
-	padding: 10px; 
-	float: left;
-	}
+					<p> While more symbolic than economic sanctions, diplomatic sanctions also are a non-military means of holding so-called “bad actors" accountable. By reducing or cutting off diplomatic ties, a state thus sends a clear message/does not lend legitimacy to states that may be perpetrating human rights abuses, for instance.</p>
 
-.grid-example{
-	display: flex;
-	}
+				</div>
 
-.grid-item-example{
-	flex: 1;
-	border-radius: 25px;
-	padding: 1px;
-	border-style: solid;
-	border-color: white;
-	}
 
-.icon-example{
-	margin-left: 50px;
-	font-size: 16px;
-	}
+				<div class="icon-small"> 
 
-a {
-	color: lightblue;
-	}
+					<img src="outline_remove_circle_black_24dp.png" alt="minus sign">
 
-footer{
-	font-family: roboto;
-	text-align: left;
-	color: #white;
-	background-color: gray;
-	padding: 20px;
-	border-radius: 25px;
-	}
+				</div>
 
-@media only screen and (min-width: 321px){
-	
-	.grid-area{
-		display: flex;
-		justify-content: center;
-	}
-	
-	.grid-item{
-		flex-wrap: wrap;
-		flex-basis: 30%;
-		margin: 1px;
-	}
-	
-	.grid-example {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
+				<div class="icon-example">
 
-	}
+				<p> The downside is that reducing diplomatic realtions often means less or even no intelligence. This can make it even harder to keep tabs on so-called "bad actors." </p>
 
-	.grid-item-example{
-		flex-basis: 30%;
-		margin: 1px;
-	}
-}
+			</div>
 
-@media only screen and (max-width: 320px) {
+			</div>
 
-	.grid-area{
-		display: flex;
-		justify-content: center;
-		height: 100%;
-	}
+			<div class="grid-item">
 
-	.grid-item{
-		flex-wrap: wrap;
-		flex-basis: 100%;
-		height: 100%;
-		margin: 1px;
-	}
+					
+				<div class="icon"> 
 
-	.example{
-		height: 100%;
-	}
+					<img src="noun_Sports_1843319.png" alt="ambassador with desk and flag" style="width:100px;height:100px">
 
-	.grid-example {
-		display: flex;
-	}
+				</div>
 
-	.grid-item-example{
-		flex-basis: 100%;
-		height: 100%;
-	}
-}
+
+				<h3> SPORTS SANCTIONS </h3>
+
+					<p> Limiting or banning participation in international sports events, like the Olympics. Sports sanctions can include a partial ban (event-specific participation) or a total ban (no participation in any event). </p>
+
+				<div class="icon-small"> 
+
+						<img src="outline_add_circle_black_24dp.png" alt="plus sign">
+
+				</div>
+
+				<div class="icon-example">
+
+					<p> Sports sanctions are a means of holding states accountable and often embarassing the government in an arena that celebrates and promotes national pride and nationalism. Like diplomatic sanctions, sports sanctions are a means of not lending legitimacy to or condoning human rights abusers, for instance. </p>
+
+				</div>
+
+				<div class="icon-small"> 
+
+					<img src="outline_remove_circle_black_24dp.png" alt="minus sign">
+
+				</div>
+
+				<div class="icon-example">
+
+				<p> Sports sanctions often punish individual athletes for the behavior of their country. Like other sanctions, the standards for "behavior" are often applied inconsistently. </p>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="grid-example">
+
+			<div class="grid-item-example">
+
+				<p class="example"> EXAMPLE: CUBA
+					
+				<br>
+
+				<br>
+				
+				In the wake of the revolution, Cuban leader Fidel Castro began to consolidate, claim, and nationalize property in the country. President John F. Kennedy responded by issuing a sanctions regime, with the goal of putting pressure on Castro and effect a regime change. This goal was not accomplished, and these sanctions are still in place, making it the most longstanding and comprehensive set of sanctions. It is also a broad rather than a targeted  regime. Rather than targeting specific leaders or governments, broad sanctions impact civilians, too. In the case of Cuba, U.S. sanctions are responsible for acute suffering, particularly in the 1990's, following the collapse of the Soviet Union, and today, as the world grapple with the economic impact of the COVID-19 pandemic. 
+
+				<br>
+
+				<br>
+
+				<a href="https://www.cfr.org/backgrounder/us-cuba-relations?gclid=CjwKCAjwh5qLBhALEiwAioods0uaWCzG-Mdgjc7RhWmbsEg6eS_o7drua6tGvmNAyOhC3zGt8-e4KxoCr3oQAvD_BwE">Learn more.</a> 
+
+				</p>
+
+			</div>
+
+			<div class="grid-item-example">
+
+				<p class="example"> EXAMPLE: RUSSIA
+
+				<br>
+				
+				<br>
+
+				Last year, the U.S. expelled several members of the Russian delegation to the U.S. on charges of espionage. This is part of a larger trend: the Center for Strategic and International Studies says the U.S. has expelled more than 100 members of the Russian diplomatic presence in the past five years. And the U.S. govenrment is not alone: as the Russian government has grown more aggressive, other countries have employed similar measures. This is one way to hold the Russian government accountable without using military action. However, it has also created a "tit for tat" environment, in which the Russian government often responds by expelling a U.S. diplomat. This has significantly reduced and threatens to end diplomacy between the U.S. and Russia altogether. 
+
+				<br>
+				
+				<br>
+
+				<a href="https://www.csis.org/analysis/costs-weaponizing-russian-and-western-diplomatic-expulsions">Learn more.</a> </p>
+			</div>
+
+			<div class="grid-item-example">
+
+				<p class="example"> EXAMPLE: CHINA
+
+				<br>
+
+				<br>
+
+				At one point, the U.S. State Department said it was considering a boycott ofthe 2022 Olympics in China to protest of the government's treatment of the Uyghurs. The State Department did not specify if this meant athletes, government/country leaders, or both. The Uyghurs are an ethnic minority, and the U.S. government, members of the media, and others in the international community have raised concerns about ethnic cleansing of the Uyghurs at the hands of the Chinese government. As an Olympic host, China will have an opportunity to distract from or assuage these concerns, and control and shape its image to the international community. While some European nations may not attend, the U.S. has since said it is no longer considering an Olympic boycott. 
+
+				<br>
+				
+				<br>
+
+				<a href="https://www.cfr.org/in-brief/debate-over-boycotting-2022-beijing-olympics">Learn more.</a>
+
+
+				</p>
+
+			</div>
+
+		</div>
+
+
+	</body>
+
+	<footer>
+
+		<p> SOURCES AND ADDITIONAL READING: </p>
+
+		<ol>
+			<li> <a href="http://content.time.com/time/subscriber/article/0,33009,840760,00.html">"United Nations: Sanctions Against Rhodesia"</a> TIME Magazine, Dec. 23, 1966. </li>
+
+			<li> <a href="https://www.cfr.org/backgrounder/what-are-economic-sanctions">"What Are Economic Sanctions?"</a> The Council on Foreign Relations, August 12, 2019. </li>
+
+			<li> <a href="http://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/twq10julymaller.pdf">"Diplomacy Derailed: The Consequences of Economic Sanctions."</a> Center for Strategic and International Studies, July 2010. </li>
+
+			<li> <a href="https://www.cfr.org/timeline/us-cuba-relations">"Timeline: U.S.-Cuba Relations."</a> The Council on Foreign Relations, August 19, 2021. </li>
+
+			<li> <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/"> "FACT SHEET: Imposing Costs for Harmful Foreign Activities by the Russian Government."</a> The White House, April 15, 2021. </li>
+
+			<li> <a href="https://www.state.gov/secretary-antony-j-blinken-with-izumi-oguri-of-nippon-tv/">"Press Release: Secretary Antony J. Blinken with Izumi Oguri of Nippon TV."</a> U.S. Department of State, March 17, 2021. </li>
+
+			<li> <a href="https://www.state.gov/briefings/department-press-briefing-april-6-2021/">"Press Release: Department Press Briefing – April 6, 2021."</a> U.S. Department of State, April 6, 2021. </li>
+
+			<li> <a href="https://www.state.gov/briefings/department-press-briefing-july-13-2021/">"Press Release: Department Press Briefing – July 13, 2021."</a> U.S. Department of State, July 13, 2021.</li>
+
+			<li><a href="https://www.cfr.org/backgrounder/us-cuba-relations?gclid=CjwKCAjwh5qLBhALEiwAioods0uaWCzG-Mdgjc7RhWmbsEg6eS_o7drua6tGvmNAyOhC3zGt8-e4KxoCr3oQAvD_BwE"> Backgrounder: U.S.-Cuba Relations.</a>The Council on Foreign Relations, July 13, 2021. </li>
+			
+			<li> <a href="https://www.csis.org/analysis/costs-weaponizing-russian-and-western-diplomatic-expulsions">"The Costs of Weaponizing Russian and Western Diplomatic Expulsions."</a> Center for Strategic and International Studies, June 10, 2021. </li>
+
+			<li> <a href="https://www.cfr.org/in-brief/debate-over-boycotting-2022-beijing-olympics">"The Debate Over Boycotting the 2022 Beijing Olympics."</a> The Council on Foreign Relations, June 16, 2021. </li>
+
+		</ol>
+
+	</footer>
+
+</html>
