@@ -112,11 +112,11 @@ footer{
 	
 	.grid-area{
 		display: flex;
-		flex-wrap: wrap;
 		justify-content: center;
 	}
 	
 	.grid-item{
+		flex-wrap: wrap;
 		flex-basis: 30%;
 		margin: 1px;
 	}
