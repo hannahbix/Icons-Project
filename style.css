@@ -45,10 +45,6 @@ h3{
 	padding: 30px;
 	}
 
-.grid-area{
-	display: flex;
-	}
-
 .grid-item{
 	background-color: #d3d3d3;	
 	font-weight: bold;
@@ -118,11 +114,9 @@ footer{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
-		flex-basis: 30%;
 	}
 	
 	.grid-item{
-		height:650px;
 		flex-basis: 30%;
 		margin: 1px;
 	}
@@ -150,6 +144,7 @@ footer{
 
 	.grid-item{
 		flex-basis: 100%;
+		height: 100%;
 	}
 
 	.grid-example {
@@ -158,5 +153,6 @@ footer{
 
 	.grid-item-example{
 		flex-basis: 100%;
+		height: 100%;
 	}
 }
