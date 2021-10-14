@@ -140,6 +140,7 @@ footer{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
+		height: 100%;
 	}
 
 	.grid-item{
@@ -150,7 +151,7 @@ footer{
 	.example{
 		height: 100%;
 	}
-	
+
 	.grid-example {
 		display: flex;
 	}
