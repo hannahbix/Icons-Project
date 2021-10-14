@@ -118,6 +118,7 @@ footer{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
+		flex-basis: 30%;
 	}
 	
 	.grid-item{
@@ -143,7 +144,7 @@ footer{
 
 	.grid-area{
 		display: flex;
-		flex-wrap:  wrap;
+		flex-wrap: wrap;
 		justify-content: center;
 	}
 
@@ -151,8 +152,8 @@ footer{
 		flex-basis: 100%;
 	}
 
-	.grid-exampe:
-		{display: flex;
+	.grid-example {
+		display: flex;
 	}
 
 	.grid-item-example{
