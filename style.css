@@ -147,6 +147,10 @@ footer{
 		height: 100%;
 	}
 
+	.example{
+		height: 100%;
+	}
+	
 	.grid-example {
 		display: flex;
 	}
