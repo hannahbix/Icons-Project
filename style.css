@@ -138,6 +138,7 @@ footer{
 
 	.grid-area{
 		display: flex;
+		flex-direction: column;
 	}
 
 	.grid-item{
